@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/yogacharyajay/static/css/main.948e5f4a.chunk.css",
+    "main.js": "/yogacharyajay/static/js/main.58dc4419.chunk.js",
+    "main.js.map": "/yogacharyajay/static/js/main.58dc4419.chunk.js.map",
+    "runtime-main.js": "/yogacharyajay/static/js/runtime-main.ec639cc1.js",
+    "runtime-main.js.map": "/yogacharyajay/static/js/runtime-main.ec639cc1.js.map",
+    "static/css/2.5386b619.chunk.css": "/yogacharyajay/static/css/2.5386b619.chunk.css",
+    "static/js/2.c68c79e3.chunk.js": "/yogacharyajay/static/js/2.c68c79e3.chunk.js",
+    "static/js/2.c68c79e3.chunk.js.map": "/yogacharyajay/static/js/2.c68c79e3.chunk.js.map",
+    "index.html": "/yogacharyajay/index.html",
+    "precache-manifest.30e695ed6d1f42bf7ffba3aa00e96579.js": "/yogacharyajay/precache-manifest.30e695ed6d1f42bf7ffba3aa00e96579.js",
+    "service-worker.js": "/yogacharyajay/service-worker.js",
+    "static/css/2.5386b619.chunk.css.map": "/yogacharyajay/static/css/2.5386b619.chunk.css.map",
+    "static/css/main.948e5f4a.chunk.css.map": "/yogacharyajay/static/css/main.948e5f4a.chunk.css.map",
+    "static/js/2.c68c79e3.chunk.js.LICENSE.txt": "/yogacharyajay/static/js/2.c68c79e3.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/yogacharyajay/static/media/1.76bbf4f1.jpg",
+    "static/media/10.jpg": "/yogacharyajay/static/media/10.c1eeff0f.jpg",
+    "static/media/11.jpg": "/yogacharyajay/static/media/11.cc7eac8d.jpg",
+    "static/media/12.jpg": "/yogacharyajay/static/media/12.61e188c5.jpg",
+    "static/media/13.jpg": "/yogacharyajay/static/media/13.dd421e3f.jpg",
+    "static/media/14.JPG": "/yogacharyajay/static/media/14.f6b8f65f.JPG",
+    "static/media/15.JPG": "/yogacharyajay/static/media/15.4aac5fa2.JPG",
+    "static/media/17.jpg": "/yogacharyajay/static/media/17.adb02afa.jpg",
+    "static/media/18.jpg": "/yogacharyajay/static/media/18.c54092bf.jpg",
+    "static/media/19.jpg": "/yogacharyajay/static/media/19.36cd5260.jpg",
+    "static/media/4.jpg": "/yogacharyajay/static/media/4.fdaeca7a.jpg",
+    "static/media/5.JPG": "/yogacharyajay/static/media/5.0a715660.JPG",
+    "static/media/6.jpg": "/yogacharyajay/static/media/6.7afbfe28.jpg",
+    "static/media/7.JPG": "/yogacharyajay/static/media/7.1f1c6de1.JPG",
+    "static/media/8.JPG": "/yogacharyajay/static/media/8.554d5e65.JPG",
+    "static/media/9.jpg": "/yogacharyajay/static/media/9.558a4f33.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec639cc1.js",
+    "static/css/2.5386b619.chunk.css",
+    "static/js/2.c68c79e3.chunk.js",
+    "static/css/main.948e5f4a.chunk.css",
+    "static/js/main.58dc4419.chunk.js"
+  ]
+}

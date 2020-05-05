@@ -1,2 +1,0 @@
-# yogacharyaAjay
-YOGACHARYA AJAY SHARMA - WEBSITE
