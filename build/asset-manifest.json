@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/webbing-dad/static/css/main.8a218122.chunk.css",
+    "main.js": "/webbing-dad/static/js/main.7f30996a.chunk.js",
+    "main.js.map": "/webbing-dad/static/js/main.7f30996a.chunk.js.map",
+    "runtime-main.js": "/webbing-dad/static/js/runtime-main.80401110.js",
+    "runtime-main.js.map": "/webbing-dad/static/js/runtime-main.80401110.js.map",
+    "static/css/2.5386b619.chunk.css": "/webbing-dad/static/css/2.5386b619.chunk.css",
+    "static/js/2.a03073cd.chunk.js": "/webbing-dad/static/js/2.a03073cd.chunk.js",
+    "static/js/2.a03073cd.chunk.js.map": "/webbing-dad/static/js/2.a03073cd.chunk.js.map",
+    "index.html": "/webbing-dad/index.html",
+    "precache-manifest.bf14e43102bd0e2f9cb99c7cb2ded440.js": "/webbing-dad/precache-manifest.bf14e43102bd0e2f9cb99c7cb2ded440.js",
+    "service-worker.js": "/webbing-dad/service-worker.js",
+    "static/css/2.5386b619.chunk.css.map": "/webbing-dad/static/css/2.5386b619.chunk.css.map",
+    "static/css/main.8a218122.chunk.css.map": "/webbing-dad/static/css/main.8a218122.chunk.css.map",
+    "static/js/2.a03073cd.chunk.js.LICENSE.txt": "/webbing-dad/static/js/2.a03073cd.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/webbing-dad/static/media/1.76bbf4f1.jpg",
+    "static/media/10.jpg": "/webbing-dad/static/media/10.c1eeff0f.jpg",
+    "static/media/11.jpg": "/webbing-dad/static/media/11.cc7eac8d.jpg",
+    "static/media/12.jpg": "/webbing-dad/static/media/12.61e188c5.jpg",
+    "static/media/13.jpg": "/webbing-dad/static/media/13.dd421e3f.jpg",
+    "static/media/14.JPG": "/webbing-dad/static/media/14.f6b8f65f.JPG",
+    "static/media/15.JPG": "/webbing-dad/static/media/15.4aac5fa2.JPG",
+    "static/media/17.jpg": "/webbing-dad/static/media/17.adb02afa.jpg",
+    "static/media/18.jpg": "/webbing-dad/static/media/18.c54092bf.jpg",
+    "static/media/19.jpg": "/webbing-dad/static/media/19.36cd5260.jpg",
+    "static/media/4.jpg": "/webbing-dad/static/media/4.fdaeca7a.jpg",
+    "static/media/5.JPG": "/webbing-dad/static/media/5.0a715660.JPG",
+    "static/media/6.jpg": "/webbing-dad/static/media/6.7afbfe28.jpg",
+    "static/media/7.JPG": "/webbing-dad/static/media/7.1f1c6de1.JPG",
+    "static/media/8.JPG": "/webbing-dad/static/media/8.554d5e65.JPG",
+    "static/media/9.jpg": "/webbing-dad/static/media/9.558a4f33.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80401110.js",
+    "static/css/2.5386b619.chunk.css",
+    "static/js/2.a03073cd.chunk.js",
+    "static/css/main.8a218122.chunk.css",
+    "static/js/main.7f30996a.chunk.js"
+  ]
+}
